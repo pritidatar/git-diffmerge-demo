@@ -5,4 +5,5 @@ this is admin file
 -- hiring and forming development team
 -- product development process launch
 -- hiring and forming hr,administrative and purchase dept
+-- purchses office stationaries,equipment like computers etc
 

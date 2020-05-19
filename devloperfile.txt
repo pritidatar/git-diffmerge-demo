@@ -1,2 +1,3 @@
 this is developer file
+-- we need hire marketing manager to run campaigns
 
