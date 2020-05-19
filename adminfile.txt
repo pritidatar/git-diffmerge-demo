@@ -2,4 +2,7 @@ this is admin file
 
 -- formation of company (01 June)
 -- core team formed including CEO,vco (16 June)
+-- hiring and forming development team
+-- product development process launch
+-- hiring and forming hr,administrative and purchase dept
 
