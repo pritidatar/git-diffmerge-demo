@@ -1,3 +1,5 @@
 this is admin file
 
 -- formation of company (01 June)
+-- core team formed including CEO,vco (16 June)
+
